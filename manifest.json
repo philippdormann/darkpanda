@@ -7,7 +7,7 @@
 	"permissions": [ "activeTab", "declarativeContent" ],
 	"content_scripts": [
 		{
-			"matches": [ "https://web.bitpanda.com/home" ],
+			"matches": [ "https://web.bitpanda.com/*" ],
 			"css": [ "main.css" ]
 		}
 	]

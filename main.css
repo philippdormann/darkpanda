@@ -57,7 +57,8 @@ best-widget > bp-tile,
 .transaction-list-detail__total-amount,
 .transaction-list-detail__recipient-information,
 .transaction-list-footer-pid,
-.transaction-list-header__close-icon-wrapper {
+.transaction-list-header__close-icon-wrapper,
+.bp-modal-description {
 	color: #fafafa !important;
 }
 .transaction-header-grid-item .recipient-information {
@@ -73,14 +74,16 @@ best-widget > bp-tile,
 	color: #dadada !important;
 }
 .disabled-button,
-.custom-individual-more-button {
+.custom-individual-more-button,
+.bp-modal-body-section {
 	background-color: #121212 !important;
 	color: #fafafa !important;
 }
 .search-toolbar {
 	background-color: #484848 !important;
 }
-.best-widget__info_field {
+.best-widget__info_field,
+.bp-modal {
 	background-color: #0e0e0e !important;
 }
 .my-assets-asset-sum,
@@ -106,4 +109,7 @@ best-widget > bp-tile,
 .preloader-container,
 .preloader {
 	background-color: #212121 !important;
+}
+.tradable-list-item__item_container * {
+	color: #fafafa !important;
 }

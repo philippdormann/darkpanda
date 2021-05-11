@@ -6,7 +6,8 @@
 }
 
 .bp-navbar-brand,
-.pricewatch-tile-chart-container canvas {
+.pricewatch-tile-chart-container canvas,
+bp-portfolio-chart canvas {
 	filter: invert(1) !important;
 }
 body,

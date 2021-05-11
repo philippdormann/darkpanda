@@ -59,7 +59,8 @@ best-widget > bp-tile,
 .transaction-list-detail__recipient-information,
 .transaction-list-footer-pid,
 .transaction-list-header__close-icon-wrapper,
-.bp-modal-description {
+.bp-modal-description,
+.portfolio__reset_button {
 	color: #fafafa !important;
 }
 .transaction-header-grid-item .recipient-information {

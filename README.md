@@ -12,7 +12,7 @@
 - [x] Basic README
 - [x] Publish to GitHub
 - [x] Project Logo™
-- [ ] Use System Darkmode Preference
+- [x] Use System Darkmode Preference
 - [ ] Display Icon in Extension
 - [ ] README Screenshots
 - [ ] Firefox Testing

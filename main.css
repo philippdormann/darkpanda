@@ -99,6 +99,9 @@ best-widget > bp-tile,
 }
 .transaction-list-header__top,
 .transaction-list-detail__background,
-.transaction-list-footer-container {
+.transaction-list-footer-container,
+.loader,
+.preloader-container,
+.preloader {
 	background-color: #212121 !important;
 }

@@ -5,10 +5,13 @@
 	background-color: #212121 !important;
 }
 
-.bp-navbar-brand {
+.bp-navbar-brand,
+.pricewatch-tile-chart-container canvas {
 	filter: invert(1) !important;
 }
-body {
+body,
+html,
+bitpanda {
 	background-color: #121212 !important;
 	color: #fafafa !important;
 }

@@ -16,7 +16,8 @@
 	bitpanda,
 	.disabled-button,
 	.custom-individual-more-button,
-	.bp-modal-body-section {
+	.bp-modal-body-section,
+	.mod-general {
 		background-color: #121212 !important;
 		color: #fafafa !important;
 	}
@@ -67,7 +68,9 @@
 	.transaction-list-footer-pid,
 	.transaction-list-header__close-icon-wrapper,
 	.bp-modal-description,
-	.portfolio__reset_button {
+	.portfolio__reset_button,
+	.modal-add-info-headline,
+	.btn-primary {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {

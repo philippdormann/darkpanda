@@ -25,4 +25,4 @@
   - [x] Modals
   - [x] Context Menus
   - [ ] Settings
-  - [ ] Trade Modal Header
+  - [x] Trade Modal Header

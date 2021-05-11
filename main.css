@@ -33,14 +33,72 @@ savings-list,
 .bp-navbar-button.mod-inverse,
 .bp-navbar-nav-link,
 .portfolio-widget-container,
-best-widget > bp-tile {
+best-widget > bp-tile,
+.asset-tile-top,
+.headline-base,
+.btn.filter-button,
+.filter-button,
+.column__name.header,
+.column__price.header,
+.column__price.header,
+.column__marketcap.header,
+.column__change.header,
+.column__graph.header,
+.color-text,
+.tradable-detail-info__details_item_label,
+.stocks-detail__recommendation_action,
+.stocks-detail__chart_subheader,
+.pricewatch-tile-amount-current-value,
+.list__item__name,
+.column__marketcap,
+.btn-primary.btn-inverse,
+.bp-navbar-account-overlay-link,
+.bp-navbar-account-overlay-link-small,
+.transaction-list-detail__total-amount,
+.transaction-list-detail__recipient-information,
+.transaction-list-footer-pid,
+.transaction-list-header__close-icon-wrapper {
 	color: #fafafa !important;
 }
 .transaction-header-grid-item .recipient-information {
-	color: #ababab !important;
+	color: #dadada !important;
 }
 .transaction-list-header__container {
 	background-color: #212121 !important;
 	color: #fafafa !important;
 	border-radius: 0px !important;
+}
+.asset-tile-amount-crypto,
+.my-assets-fiat-sum {
+	color: #dadada !important;
+}
+.disabled-button {
+	color: #0a0a0a !important;
+}
+.search-toolbar {
+	background-color: #484848 !important;
+}
+.best-widget__info_field {
+	background-color: #0e0e0e !important;
+}
+.my-assets-asset-sum,
+.stocks-detail__recommendation_footer {
+	color: #ffffff !important;
+}
+.index-holdings__donut-inner {
+	fill: #0a0a0a !important;
+}
+.bp-navbar-account-overlay-inner {
+	background-color: #272727 !important;
+}
+.bp-navbar-main {
+	background-color: #212121 !important;
+}
+.portfolio-widget-key-amount-fiat {
+	color: #ffffff66 !important;
+}
+.transaction-list-header__top,
+.transaction-list-detail__background,
+.transaction-list-footer-container {
+	background-color: #212121 !important;
 }

@@ -123,3 +123,7 @@ best-widget > bp-tile,
 .card-disabled > * {
 	opacity: .8;
 }
+.asset-item .asset-tile-amount-fiat {
+	color: #fff !important;
+	opacity: 1 !important;
+}

@@ -1,0 +1,43 @@
+.card-interactive {
+	color: #3c3c3c !important;
+}
+.bp-navbar {
+	background-color: #212121 !important;
+}
+
+.bp-navbar-brand {
+	filter: invert(1) !important;
+}
+body {
+	background-color: #121212 !important;
+	color: #fafafa !important;
+}
+.card-interactive,
+.card {
+	background-color: #2d2d2d !important;
+}
+.portfolio-widget-show-all {
+	background: linear-gradient(0deg, rgb(0 0 0 / 67%) 5%, rgb(0 0 0 / 0%) 100%) !important;
+}
+savings-list,
+.savings_component__empty_state_text,
+.savings_component__empty_state_button,
+.header-title,
+.tabbar > .default,
+.title,
+.transaction-header-grid-item .information-header-title .information-trade-title,
+.price-chart-tile-content,
+.bp-navbar-button.mod-inverse,
+.bp-navbar-nav-link,
+.portfolio-widget-container,
+best-widget > bp-tile {
+	color: #fafafa !important;
+}
+.transaction-header-grid-item .recipient-information {
+	color: #ababab !important;
+}
+.transaction-list-header__container {
+	background-color: #212121 !important;
+	color: #fafafa !important;
+	border-radius: 0px !important;
+}

@@ -13,9 +13,15 @@
 	}
 	body,
 	html,
-	bitpanda {
+	bitpanda,
+	.disabled-button,
+	.custom-individual-more-button,
+	.bp-modal-body-section {
 		background-color: #121212 !important;
 		color: #fafafa !important;
+	}
+	.savings-icon {
+		background-color: #121212 !important;
 	}
 	.card-interactive,
 	.card {
@@ -75,12 +81,6 @@
 	.asset-tile-amount-crypto,
 	.my-assets-fiat-sum {
 		color: #dadada !important;
-	}
-	.disabled-button,
-	.custom-individual-more-button,
-	.bp-modal-body-section {
-		background-color: #121212 !important;
-		color: #fafafa !important;
 	}
 	.search-toolbar {
 		background-color: #484848 !important;

@@ -20,7 +20,7 @@
 - [x] Publish to GitHub
 - [x] Project Logo™
 - [x] Use System Darkmode Preference
-- [ ] Display Icon in Extension
+- [x] Display Icon in Extension
 - [x] README Screenshots
 - [ ] Firefox Testing
 - [ ] Supported

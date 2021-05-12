@@ -26,6 +26,7 @@
 	}
 	.savings-icon {
 		background-color: #121212 !important;
+		color: #00ff9d !important;
 	}
 	.card-interactive,
 	.card {
@@ -85,6 +86,7 @@
 	.mod-verification .bp-form-field,
 	.gray-box__left__title,
 	.gray-box__right__item__text,
+	.tradable-list-item__legend_container,
 	.text-title {
 		color: #fafafa !important;
 	}
@@ -121,7 +123,7 @@
 		background-color: #212121 !important;
 	}
 	.portfolio-widget-key-amount-fiat {
-		color: #ffffff66 !important;
+		color: #bfbfbf !important;
 	}
 	.transaction-list-header__top,
 	.transaction-list-detail__background,
@@ -145,5 +147,26 @@
 	.asset-item .asset-tile-amount-fiat {
 		color: #fff !important;
 		opacity: 1 !important;
+	}
+	.price-up,
+	.header-title-icon,
+	a {
+		color: #00ff9d !important;
+	}
+	.best-widget__fiat_amount {
+		color: #bfbfbf !important;
+	}
+	.bp-navbar-button {
+		color: #121212 !important;
+	}
+	.content-portfolio.content table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(2),
+	.content-portfolio.content table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(1) {
+		filter: invert(1) !important;
+	}
+	.rate-indicator.mod-up {
+		border-bottom: 13px solid #00ff9d !important;
+	}
+	.symbol-text-tile.is-muted {
+		opacity: .5 !important;
 	}
 }

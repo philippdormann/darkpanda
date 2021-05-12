@@ -173,4 +173,7 @@
 	.symbol-text-tile.is-muted {
 		opacity: .5 !important;
 	}
+	.segment .segment-button.segment-button-selected {
+		color: #0a0a0a !important;
+	}
 }

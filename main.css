@@ -198,4 +198,11 @@
 		color: #19de7f !important;
 		opacity: 1 !important;
 	}
+	.btn-primary.btn-inverse:hover {
+		background-color: #0a0a0a !important;
+		color: #fafafa !important;
+	}
+	.main-item-container:hover {
+		background-color: rgb(0 0 0 / 50%) !important;
+	}
 }

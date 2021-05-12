@@ -4,6 +4,8 @@
   <h3 align="center">Automatic darkmode for Bitpanda Web 🐼🌑</h3>
 </p>
 
+## 👀 Preview
+![Dashboard Sample Screenshot](./sample_screenshot.png)
 
 ## ⚡ Download
 - [Download project archive](https://github.com/philippdormann/bitpanda_darkmode/archive/refs/heads/main.zip)
@@ -15,7 +17,7 @@
 - [x] Project Logo™
 - [x] Use System Darkmode Preference
 - [ ] Display Icon in Extension
-- [ ] README Screenshots
+- [x] README Screenshots
 - [ ] Firefox Testing
 - [ ] Supported
   - [x] Page Loader

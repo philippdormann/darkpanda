@@ -34,11 +34,11 @@
   - [x] Trade Modal Header
   - [ ] Profile
     - [ ] Account
-    - [ ] Card
+    - [x] Card
     - [x] History
     - [ ] My Best
     - [x] Savings-Plan
     - [ ] Contacts
     - [ ] Security
     - [ ] API-Keys
-    - [ ] WalletDetail (`/wallet/<wallet_id>`)
+    - [x] WalletDetail (`/wallet/<wallet_id>`)

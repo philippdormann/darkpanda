@@ -1,8 +1,9 @@
-<center>
+<p align="center">
 <img height="150" src="./panda.svg">
-<h1>DarkPanda</h1>
-<h3>🌑🐼 automatic darkmode for bitpanda web 🐼🌑</h3>
-</center>
+  <h1 align="center">DarkPanda</h1>
+  <h3 align="center">Automatic darkmode for Bitpanda Web 🐼🌑</h3>
+</p>
+
 
 ## ⚡ Download
 - [Download project archive](https://github.com/philippdormann/bitpanda_darkmode/archive/refs/heads/main.zip)

@@ -17,7 +17,10 @@
 	.disabled-button,
 	.custom-individual-more-button,
 	.bp-modal-body-section,
-	.mod-general {
+	.mod-general,
+	.bp-form-field.mod-disabled,
+	.cashback__box,
+	.variant__highlight {
 		background-color: #121212 !important;
 		color: #fafafa !important;
 	}
@@ -70,7 +73,19 @@
 	.bp-modal-description,
 	.portfolio__reset_button,
 	.modal-add-info-headline,
-	.btn-primary {
+	.btn-primary,
+	.my-account-headline,
+	.secondary-navigation-sub-link,
+	.secondary-navigation-main-link,
+	.form-label,
+	label,
+	.card-title__item,
+	.card-title__item__name,
+	.cashback__title,
+	.mod-verification .bp-form-field,
+	.gray-box__left__title,
+	.gray-box__right__item__text,
+	.text-title {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {

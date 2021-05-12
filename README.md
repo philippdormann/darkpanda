@@ -24,5 +24,13 @@
   - [x] Pricing Details
   - [x] Modals
   - [x] Context Menus
-  - [ ] Settings
   - [x] Trade Modal Header
+  - [ ] Profile
+    - [ ] Account
+    - [ ] Card
+    - [x] History
+    - [ ] My Best
+    - [x] Savings-Plan
+    - [ ] Contacts
+    - [ ] Security
+    - [ ] API-Keys

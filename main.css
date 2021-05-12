@@ -86,7 +86,13 @@
 	.gray-box__left__title,
 	.gray-box__right__item__text,
 	.tradable-list-item__legend_container,
-	.text-title {
+	.text-title,
+	.wallet-details-header__masthead__amount,
+	.actionbutton__wrapper .actionbutton,
+	.empty-headline,
+	.form-text-inside-counter,
+	.bp-input-info,
+	.text-gray {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {
@@ -185,5 +191,11 @@
 	}
 	.asset-tile-amount-profit.loss {
 		color: #ffc107 !important;
+	}
+	.wallet-details-header__masthead__title__edit-icon,
+	.bpi__icon-bell-plus,
+	.pricewatch-tile .tooltip-asset-detail {
+		color: #19de7f !important;
+		opacity: 1 !important;
 	}
 }

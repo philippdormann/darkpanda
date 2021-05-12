@@ -7,8 +7,7 @@
 	}
 
 	.bp-navbar-brand,
-	.pricewatch-tile-chart-container canvas,
-	bp-portfolio-chart canvas {
+	.pricewatch-tile-chart-container canvas {
 		filter: invert(1) !important;
 	}
 	body,
@@ -26,7 +25,7 @@
 	}
 	.savings-icon {
 		background-color: #121212 !important;
-		color: #00ff9d !important;
+		color: #19de7f !important;
 	}
 	.card-interactive,
 	.card {
@@ -150,8 +149,11 @@
 	}
 	.price-up,
 	.header-title-icon,
+	.segment .segment-button,
+	.asset-tile-amount-profit,
+	.green-text,
 	a {
-		color: #00ff9d !important;
+		color: #19de7f !important;
 	}
 	.best-widget__fiat_amount {
 		color: #bfbfbf !important;
@@ -160,11 +162,13 @@
 		color: #121212 !important;
 	}
 	.content-portfolio.content table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(2),
-	.content-portfolio.content table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(1) {
+	.content-portfolio.content table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(1),
+	bp-portfolio-chart table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(2),
+	bp-portfolio-chart table > tr:nth-child(2) > td:nth-child(2) > div > canvas:nth-child(1) {
 		filter: invert(1) !important;
 	}
 	.rate-indicator.mod-up {
-		border-bottom: 13px solid #00ff9d !important;
+		border-bottom: 13px solid #19de7f !important;
 	}
 	.symbol-text-tile.is-muted {
 		opacity: .5 !important;

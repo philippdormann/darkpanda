@@ -19,7 +19,8 @@
 	.mod-general,
 	.bp-form-field.mod-disabled,
 	.cashback__box,
-	.variant__highlight {
+	.variant__highlight,
+	.bpc-cookie-banner {
 		background-color: #121212 !important;
 		color: #fafafa !important;
 	}
@@ -82,7 +83,6 @@
 	.card-title__item,
 	.card-title__item__name,
 	.cashback__title,
-	.mod-verification .bp-form-field,
 	.gray-box__left__title,
 	.gray-box__right__item__text,
 	.tradable-list-item__legend_container,
@@ -92,7 +92,10 @@
 	.empty-headline,
 	.form-text-inside-counter,
 	.bp-input-info,
-	.text-gray {
+	.text-gray,
+	.account-user-email,
+	.mod-verification,
+	.info-text {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {
@@ -159,6 +162,7 @@
 	.asset-tile-amount-profit,
 	.green-text,
 	.color-primary,
+	.my-account-section-content-logout-link .bpi__icon-logout,
 	a {
 		color: #19de7f !important;
 	}
@@ -204,5 +208,11 @@
 	}
 	.main-item-container:hover {
 		background-color: rgb(0 0 0 / 50%) !important;
+	}
+	.form-on-off-switch-inner {
+		background-color: #121212 !important;
+	}
+	.variant__highlight {
+		background-image: none !important;
 	}
 }

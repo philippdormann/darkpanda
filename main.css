@@ -176,7 +176,13 @@
 	.segment .segment-button.segment-button-selected {
 		color: #0a0a0a !important;
 	}
+	.red-text {
+		color: #ffc107 !important;
+	}
 	.bp-navbar-account-overlay-button-display {
 		background-color: rgb(33 33 33) !important;
+	}
+	.asset-tile-amount-profit.loss {
+		color: #ffc107 !important;
 	}
 }

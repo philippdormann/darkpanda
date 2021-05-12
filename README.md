@@ -41,3 +41,4 @@
     - [ ] Contacts
     - [ ] Security
     - [ ] API-Keys
+    - [ ] WalletDetail (`/wallet/<wallet_id>`)

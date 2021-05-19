@@ -33,7 +33,7 @@
   - [x] Context Menus
   - [x] Trade Modal Header
   - [ ] Profile
-    - [ ] Account
+    - [x] Account
     - [x] Card
     - [x] History
     - [ ] My Best

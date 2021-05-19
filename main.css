@@ -95,7 +95,11 @@
 	.text-gray,
 	.account-user-email,
 	.mod-verification,
-	.info-text {
+	.info-text,
+	.color-black,
+	.fiat-tile-amount-small,
+	.fiat-tile-amount-big,
+	.text-summary-description {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {
@@ -117,8 +121,13 @@
 	.bp-modal {
 		background-color: #0e0e0e !important;
 	}
+	.best-fee-collection__info_field {
+		background-color: #0e0e0e !important;
+		color: #fafafa !important;
+	}
 	.my-assets-asset-sum,
-	.stocks-detail__recommendation_footer {
+	.stocks-detail__recommendation_footer,
+	.fiat-tile-currency-text {
 		color: #ffffff !important;
 	}
 	.index-holdings__donut-inner {
@@ -145,7 +154,8 @@
 		color: #fafafa !important;
 	}
 
-	.provider-tile-container {
+	.provider-tile-container,
+	.bp-form-field {
 		background-color: #0e0e0e !important;
 		color: #fafafa !important;
 	}
@@ -214,5 +224,8 @@
 	}
 	.variant__highlight {
 		background-image: none !important;
+	}
+	.btn-summary.mod-amount {
+		color: #000000 !important;
 	}
 }

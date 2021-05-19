@@ -94,7 +94,6 @@
 	.bp-input-info,
 	.text-gray,
 	.account-user-email,
-	.mod-verification,
 	.info-text,
 	.color-black,
 	.fiat-tile-amount-small,
@@ -227,5 +226,21 @@
 	}
 	.btn-summary.mod-amount {
 		color: #000000 !important;
+	}
+
+	.bpc-cookie-banner {
+		background-color: #0c0c0c;
+		color: #ffffff !important;
+	}
+	.bpc-cookie-banner a {
+		color: #ffffff !important;
+	}
+	.bpc-cookie-banner__settings-button {
+		color: #27d17f;
+	}
+	.ng-select.ng-select-opened > .ng-select-container,
+	.ng-select .ng-select-container {
+		background: #2d2d2d !important;
+		background-color: #2d2d2d !important;
 	}
 }

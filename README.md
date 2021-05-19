@@ -23,7 +23,8 @@
 - [x] Display Icon in Extension
 - [x] README Screenshots
 - [ ] Firefox Testing
-- [ ] Supported
+- [ ] Load content script on content ready instead of timeout
+- [x] Supported
   - [x] Page Loader
   - [x] Home
   - [x] Portfolio Overview
@@ -32,13 +33,15 @@
   - [x] Modals
   - [x] Context Menus
   - [x] Trade Modal Header
-  - [ ] Profile
+  - [x] TransactionDetail Modal
+  - [x] Profile
     - [x] Account
     - [x] Card
     - [x] History
-    - [ ] My Best
+    - [x] My Best
     - [x] Savings-Plan
-    - [ ] Contacts
-    - [ ] Security
-    - [ ] API-Keys
+    - [x] Contacts
+    - [x] Security
+    - [x] API-Keys
+    - [x] Tell-a-Friend
     - [x] WalletDetail (`/wallet/<wallet_id>`)

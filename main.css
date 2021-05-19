@@ -64,6 +64,8 @@
 	.pricewatch-tile-amount-current-value,
 	.list__item__name,
 	.column__marketcap,
+	.number-style-title,
+	.number-style-desc,
 	.btn-primary.btn-inverse,
 	.bp-navbar-account-overlay-link,
 	.bp-navbar-account-overlay-link-small,
@@ -98,7 +100,16 @@
 	.color-black,
 	.fiat-tile-amount-small,
 	.fiat-tile-amount-big,
-	.text-summary-description {
+	.text-summary-description,
+	.my-account-section-content,
+	.best-stats-remaining-container,
+	.transaction-list-detail__recipient-information .mod-header,
+	.main-description-color,
+	.my-account-section-description,
+	.sessions-table-col,
+	.sessions-table-col *,
+	div.my-account-section-content div.sessions-table-col.mod-client > span,
+	.transactions-list-separator {
 		color: #fafafa !important;
 	}
 	.transaction-header-grid-item .recipient-information {
@@ -120,7 +131,8 @@
 	.bp-modal {
 		background-color: #0e0e0e !important;
 	}
-	.best-fee-collection__info_field {
+	.best-fee-collection__info_field,
+	.form-field {
 		background-color: #0e0e0e !important;
 		color: #fafafa !important;
 	}
@@ -242,5 +254,27 @@
 	.ng-select .ng-select-container {
 		background: #2d2d2d !important;
 		background-color: #2d2d2d !important;
+	}
+	.secondary-navigation-main-link .is-active {
+		background: #27d17f94 !important;
+		color: #000 !important;
+		border-radius: .5rem !important;
+		padding-left: 1rem !important;
+	}
+	.secondary-navigation-main-link .is-active .secondary-navigation-main-link__icon {
+		color: #000 !important;
+	}
+	.api-keys-table-row.mod-head {
+		color: #f3f3f3 !important;
+		background-color: #0e0e0e !important;
+	}
+	.empty-text {
+		color: #e0e0e0 !important;
+	}
+	.btn-primary,
+	.btn-primary.focus,
+	.btn-primary:focus,
+	.btn-primary:hover {
+		color: #000;
 	}
 }
